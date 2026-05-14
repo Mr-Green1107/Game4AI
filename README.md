@@ -35,6 +35,9 @@ Per importare correttamente i file, la procedura per estrarre il link da seguire
 * Sorbello Antonio
 
 **Gruppo 3:**
+* Franco Longo
+* Gloria Andronico
+* Samuele Massimino
 * Elisa Raciti
 * Riccardo Grasso
 * Riccardo Grasso
@@ -45,8 +48,3 @@ Per importare correttamente i file, la procedura per estrarre il link da seguire
 * Nicolò Scaccia
 * Antonino Pennisi
 * Riccardo Di Pasquale
-
-**Gruppo 5:**
-* Franco Longo
-* Gloria Andronico
-* Samuele Massimino
