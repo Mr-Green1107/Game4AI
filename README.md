@@ -17,7 +17,6 @@ Per importare correttamente i file, la procedura per estrarre il link da seguire
 7. Copiare link
 8. Incollarlo su Genially
 
-[Test](https://www.youtube.com)
 
 ---
 
